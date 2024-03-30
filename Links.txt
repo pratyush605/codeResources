@@ -1,0 +1,8 @@
+1. Spring Security With JWT for REST API
+	   https://www.toptal.com/spring/spring-security-tutorial
+2. Java Streams API
+	   https://blog.stackademic.com/asking-chatgpt-to-teach-me-java-streams-api-763492b6da71
+3. REST API Error Handling
+	   https://www.baeldung.com/rest-api-error-handling-best-practices
+4. Error Handling for REST with Spring
+	   https://www.baeldung.com/exception-handling-for-rest-with-spring
