@@ -6,3 +6,11 @@
 	   https://www.baeldung.com/rest-api-error-handling-best-practices
 4. Error Handling for REST with Spring
 	   https://www.baeldung.com/exception-handling-for-rest-with-spring
+5. Spring Data JPA @Query
+	   https://www.baeldung.com/spring-data-jpa-query
+6. How to Write Custom Finder Methods Of Spring Data JPA Repository
+	   https://medium.com/@bectorhimanshu/how-to-write-custom-finder-methods-of-spring-data-jpa-repository-b795861e3ce7#:~:text=To%20begin%2C%20Spring%20Data%20JPA,entities%20by%20their%20first%20name
+7. Role-Based Access Control with Spring Security
+	   https://medium.com/@bubu.tripathy/role-based-access-control-with-spring-security-ca59d2ce80b0
+8. Writing CSV files using OpenCSV and Spring Boot
+	   https://medium.com/@priyaroul99/writing-csv-files-using-opencsv-and-spring-boot-02e141dcba10
